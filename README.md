@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **vue js**
 
-- 📫 How to reach me **zedohany@outlook.sa**
+- 📫 How to reach me **zedohany@outlook.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
